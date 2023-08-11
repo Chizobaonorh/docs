@@ -83,4 +83,4 @@ $permissions = [
 WebserviceKey::setPermissionForAccount($apiAccess->id, $permissions);
 ```
 
-Note only the key in the nested arrays of permissions are important. We set `1` as a value in this example but it can be anything. 
+Note: Only the key in the nested arrays of permissions are important. We set `1` as a value in this example but it can be anything. 
